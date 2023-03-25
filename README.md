@@ -9,6 +9,8 @@
 
 <p align="left"> <a href="https://twitter.com/satti_piyush" target="blank"><img src="https://img.shields.io/twitter/follow/satti_piyush?logo=twitter&style=for-the-badge" alt="satti_piyush" /></a> </p>
 
+I am a software developer currently looking for backend roles. I am passionate about backend technologies. Looking forward to learn microservices, DevOps.
+
 - 🔭 I’m currently working on [class-to-sql.](https://github.com/piyushsatti/class-to-sql)
 
 - 🌱 I’m currently learning **Java and DSA.**
